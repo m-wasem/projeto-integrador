@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Pessoas'],
+          ['2020/01',      1001],
+          ['2020/02',      940],
+          ['2020/03',      900],
+          ['2020/04',       1120],
+          ['2020/05',      800],
+          ['2020/06',      778],
+          ['2020/07',      780],
+          ['2020/08',       608],
+          ['2020/09',      540],
+          ['2020/10',      540],
+          ['2020/11',      400],
+          ['2020/12',      460],
+          ['2021/01',       350],
+          ['2021/02',      430],
+          ['2021/03',      400],
+          ['2021/04',      389],
+          ['2021/05',      380],
+          ['2021/06',       380],
+          ['2021/07',      370],
+          ['2021/08',      368]
+        ]);
+
+        var options = {
+          title: 'Infectados',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="curve_chart" style="width: 100%; height: 100%;"></div>
+    <style>
+         body{
+  background-color: #082767;
+}
+    </style>
+  </body>
+</html>
