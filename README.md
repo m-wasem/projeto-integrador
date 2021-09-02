@@ -1,7 +1,7 @@
 # Projeto integrador 6º período
 
 # Mortalidade em cirurgia
-O gráfico *geral* apresentará a quantidade de mortos durante o procedimento de cirurgia nos últimos 10 anos *no brasil* e análisar se com o avanço da tecnologia fez com o que os caso diminuisem sem levar em conta o procedimento cirugico
+O gráfico *geral* apresentará a quantidade de mortos durante o procedimento de cirurgia nos últimos 10 anos *por região do brasil* e análisar se com o avanço da tecnologia fez com o que os caso diminuisem sem levar em conta o procedimento cirugico
 O gráfico *criancas* apresentará o número de *crianças* mortas em cirurgia nos *últimos 10 anos*
 O gráfico *meia idade* apresentará o número de pessoas na *meia idade* mortas em cirurgia nos *últimos 10 anos*
 O gráfico *meia terceira* apresentará o número de pessoas na *terceira idade* mortas em cirurgia nos *últimos 10 anos*
