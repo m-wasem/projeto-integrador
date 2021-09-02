@@ -16,6 +16,6 @@ Será utilizado o *geo chart* para esse gráfico
 
 # sazonalidade_doencas
 O gráfico *geral* apresentará o números de infectados com gripe nos anos de 2020 e 2021
-O gráfico *ano* apresentará o numero de infectados com gripe nos *últimos 10 anos* *em cada estado*
+O gráfico *ano* apresentará o numero de infectados com gripe nos *últimos 10 anos* *por região*
 Analisar se no anos de 2020 e 2021 teve um aumento ou diminuição nos casos de gripe 
 O gráfico *doenças respiratórias* apresentará o *número de pessoas* com doenças respiratória nos *últimos 10 anos* no brasil e analisar se teve aumento ou diminução
