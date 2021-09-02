@@ -9,7 +9,7 @@ O gráfico *erro médico* apresentará o número de pessoas mortas em cirurgia p
 Para representar esses gráficos utilizaresmos o *gráfico de barras*
 
 # moralidade_gestacional_localidade
-O gráfico *geral* aprensentará o número de mulheres mortas por causa da gestação *em cada estado* nos últimos *10 anos* e analisar se teve aumento ou diminuição
+O gráfico *geral* aprensentará o número de mulheres mortas por causa da gestação *por região* nos últimos *10 anos* e analisar se teve aumento ou diminuição
 O gráfico *crianças* aprensentará o número de mortalidade de mulheres ate os *18 anos* em *cada estado* nos últimos *10 anos* 
 O gráfico *aborto* apresentará o número de mulheres que morreram por causa de abortos mau sucedidos nos *últimos 10 anos* *em cada estado*
 Será utilizado o *geo chart* para esse gráfico
