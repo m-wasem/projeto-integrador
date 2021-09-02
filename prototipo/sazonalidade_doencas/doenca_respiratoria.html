@@ -1,0 +1,50 @@
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css" media="screen" />
+</head>
+
+<head>
+    <input type="button" value="Voltar" onClick="history.go(-1)">
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawVisualization);
+
+        function drawVisualization() {
+            // Some raw data (not necessarily accurate)
+            var data = google.visualization.arrayToDataTable([
+                ['Anos', 'valor'],
+                ['2011', 717],
+                ['2012', 733],
+                ['2013', 358],
+                ['2014', 462],
+                ['2015', 702],
+                ['2016', 356],
+                ['2017', 456],
+                ['2018', 123],
+                ['2019', 113],
+                ['2020', 103],
+            ]);
+
+            var options = {
+                title: 'Quantidade d epessoas diagnosticadas com doenças respiratórias nos ultimos 10 anos',
+                vAxis: { title: 'Anos' },
+                hAxis: { title: 'Mortes' },
+                seriesType: 'bars',
+                series: { 5: { type: 'line' } }
+            };
+
+            var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+            chart.draw(data, options);
+        }
+    </script>
+</head>
+
+<body>
+    <div id="chart_div" style="width: 100%; height: 100%;"></div>
+</body>
+
+</html>
+

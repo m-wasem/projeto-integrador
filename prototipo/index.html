@@ -1,55 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Menu</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css" />
 </head>
+
 <body>
-    <h2>Mortalidade em Cirurgias</h2>
-    <ul>
-        <li>
-            <a href="mortalidade_cirurgia/geral.html">Total de mortos em cirurgia</a>
-        </li>
-        <li>
-            <a href="mortalidade_cirurgia/erro_medico.html">Total de mortos em cirurgia por erro médico</a>
-        </li>
-        <li>
-            <a href="mortalidade_cirurgia/terceira_idade.html">Total de mortos em cirurgia na terceira idade</a>
-        </li>
-        <li>
-            <a href="mortalidade_cirurgia/meia_idade.html">Total de mortos em cirurgia na meia idade</a>
-        </li>
-        <li>
-            <a href="mortalidade_cirurgia/criancas.html">Total de crianças mortas em cirurgia</a>
-        </li>
-    </ul>
+    <input type="checkbox" id="check">
+    <label id="icone" for="check"><img src="icone.png"></label>
 
-    <h2>Mortalidade gestacional por estado</h2>
-    <ul>
-        <li>
-            <a href="mortalidade_gestacional_localidade/geral.html">Total de mortos</a>
-        </li>
-        <li>
-            <a href="mortalidade_gestacional_localidade/faixa_etaria_crianca.html">Total de mortos menores de 18 anos</a>
-        </li>
-        <li>
-            <a href="mortalidade_gestacional_localidade/faixa_etaria_mulher.html">Total de mortos maiores de 18 anos</a>
-        </li>
-    </ul>
-
-    <h2>Doeças causadas pelo tempo</h2>
-    <ul>
-        <li>
-            <a href="sazonalidade_doencas/geral.html">Total de pessoas que adiquiriram doença</a>
-        </li>
-        <li>
-            <a href="sazonalidade_doencas/ano.html">Comparação por ano</a>
-        </li>
-        <li>
-            <a href="sazonalidade_doencas/doenca_respiratoria.html">Doença Respiratória</a>
-        </li>
-    </ul>
+    <div class="barra">
+        <nav>
+            <ul class="menu">
+                <li><b href="#">Indice de Mortalidade Por tipo de Cirurgia</b>
+                    <ul>
+                        <a href="mortalidade_cirurgia/criancas.html">crianças</a>
+                        <a href="mortalidade_cirurgia/meia_idade.html">Meia Idade</a>
+                        <a href="mortalidade_cirurgia/terceira_idade.html">Terceira Idade</a>
+                        <a href="mortalidade_cirurgia/geral.html">Geral</a>
+                        <a href="mortalidade_cirurgia/erro_medico.html">Erro Médico</a>
+                    </ul>
+                </li>
+                <li><b href="#">Mortalidade Gestacional por Estado</b>
+                    <ul>
+                        <a href="mortalidade_gestacional_localidade/geral.html">Total de mortos</a>
+                        <a href="mortalidade_gestacional_localidade/faixa_etaria_crianca.html">Total de mortos menores de 18 anos</a>
+                        <a href="mortalidade_gestacional_localidade/faixa_etaria_mulher.html">Total de mortos maiores de 18 anos</a>
+                    </ul>
+                </li>
+                <li><b href="#">Indice de Doenças causadas pelo Tempo</b>
+                    <ul>
+                        <a href="sazonalidade_doencas/geral.html">Total de pessoas que adiquiriram doença</a>
+                        <a href="sazonalidade_doencas/ano.html">Comparação por ano</a>
+                        <a href="sazonalidade_doencas/doenca_respiratoria.html">Doença Respiratória</a>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
 </body>
+<style>
+    body {
+        background-image: url("img_back.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>
+
 </html>
