@@ -1,0 +1,101 @@
+[
+	{
+		"DOMAT12": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1583
+		}
+	},
+	{
+		"DOMAT13": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1686
+		}
+	},
+	{
+		"DOMAT10": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1719
+		}
+	},
+	{
+		"DOMAT11": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1610
+		}
+	},
+	{
+		"DOMAT19": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1576
+		}
+	},
+	{
+		"DOMAT18": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1658
+		}
+	},
+	{
+		"DOMAT16": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1670
+		}
+	},
+	{
+		"DOMAT17": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1718
+		}
+	},
+	{
+		"DOMAT15": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1738
+		}
+	},
+	{
+		"DOMAT14": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1739
+		}
+	},
+	{
+		"DOMAT20": {
+			"totalCirurgiaSim": 0,
+			"totalCirurgiaNao": 0,
+			"totalCirurgiaIgnorada": 0,
+			"totalCirurgiaVazia": 0,
+			"totalLinhasInvalidas": 1851
+		}
+	}
+]
