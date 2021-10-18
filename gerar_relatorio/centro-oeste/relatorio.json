@@ -1,0 +1,498 @@
+[
+	[
+		{
+			"DODF2011": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 470,
+				"totalCirurgiaNao": 6699,
+				"totalCirurgiaIgnorada": 687,
+				"totalCirurgiaVazia": 149893,
+				"totalLinhasInvalidas": 149893,
+				"totalGeralIdade": 7856,
+				"totalMeiaIdade": 1763,
+				"totalTerceiraIdade": 5483,
+				"rowCount": 11253
+			},
+			"DODF2012": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 178,
+				"totalCirurgiaNao": 1233,
+				"totalCirurgiaIgnorada": 75,
+				"totalCirurgiaVazia": 100284,
+				"totalLinhasInvalidas": 100284,
+				"totalGeralIdade": 1486,
+				"totalMeiaIdade": 337,
+				"totalTerceiraIdade": 1005,
+				"rowCount": 11308
+			},
+			"DODF2013": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 156,
+				"totalCirurgiaNao": 890,
+				"totalCirurgiaIgnorada": 27,
+				"totalCirurgiaVazia": 96219,
+				"totalLinhasInvalidas": 96219,
+				"totalGeralIdade": 1073,
+				"totalMeiaIdade": 245,
+				"totalTerceiraIdade": 699,
+				"rowCount": 11408
+			},
+			"DODF2014": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 513,
+				"totalCirurgiaNao": 7437,
+				"totalCirurgiaIgnorada": 754,
+				"totalCirurgiaVazia": 156442,
+				"totalLinhasInvalidas": 156442,
+				"totalGeralIdade": 8704,
+				"totalMeiaIdade": 2011,
+				"totalTerceiraIdade": 5997,
+				"rowCount": 12018
+			},
+			"DODF2015": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 455,
+				"totalCirurgiaNao": 6482,
+				"totalCirurgiaIgnorada": 673,
+				"totalCirurgiaVazia": 148089,
+				"totalLinhasInvalidas": 148089,
+				"totalGeralIdade": 7610,
+				"totalMeiaIdade": 1709,
+				"totalTerceiraIdade": 5301,
+				"rowCount": 11975
+			},
+			"DODF2016": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 479,
+				"totalCirurgiaNao": 6849,
+				"totalCirurgiaIgnorada": 700,
+				"totalCirurgiaVazia": 151774,
+				"totalLinhasInvalidas": 151774,
+				"totalGeralIdade": 8028,
+				"totalMeiaIdade": 1814,
+				"totalTerceiraIdade": 5580,
+				"rowCount": 12050
+			},
+			"DODF2017": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 605,
+				"totalCirurgiaNao": 8143,
+				"totalCirurgiaIgnorada": 779,
+				"totalCirurgiaVazia": 165863,
+				"totalLinhasInvalidas": 165863,
+				"totalGeralIdade": 9527,
+				"totalMeiaIdade": 2246,
+				"totalTerceiraIdade": 6459,
+				"rowCount": 12514
+			},
+			"DODF2018": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 517,
+				"totalCirurgiaNao": 7548,
+				"totalCirurgiaIgnorada": 754,
+				"totalCirurgiaVazia": 159023,
+				"totalLinhasInvalidas": 159023,
+				"totalGeralIdade": 8819,
+				"totalMeiaIdade": 2054,
+				"totalTerceiraIdade": 6045,
+				"rowCount": 12157
+			},
+			"DODF2019": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 630,
+				"totalCirurgiaNao": 8657,
+				"totalCirurgiaIgnorada": 814,
+				"totalCirurgiaVazia": 172911,
+				"totalLinhasInvalidas": 172911,
+				"totalGeralIdade": 10101,
+				"totalMeiaIdade": 2394,
+				"totalTerceiraIdade": 6800,
+				"rowCount": 12804
+			},
+			"DODF2020": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1450,
+				"totalCirurgiaNao": 15894,
+				"totalCirurgiaIgnorada": 1305,
+				"totalCirurgiaVazia": 279375,
+				"totalLinhasInvalidas": 279375,
+				"totalGeralIdade": 18649,
+				"totalMeiaIdade": 4767,
+				"totalTerceiraIdade": 11990,
+				"rowCount": 16196
+			}
+		}
+	],
+	[
+		{
+			"DOMS2011": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1632,
+				"totalCirurgiaNao": 17841,
+				"totalCirurgiaIgnorada": 1507,
+				"totalCirurgiaVazia": 555529,
+				"totalLinhasInvalidas": 555529,
+				"totalGeralIdade": 20980,
+				"totalMeiaIdade": 5401,
+				"totalTerceiraIdade": 13397,
+				"rowCount": 14291
+			},
+			"DOMS2012": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1625,
+				"totalCirurgiaNao": 17697,
+				"totalCirurgiaIgnorada": 1487,
+				"totalCirurgiaVazia": 428839,
+				"totalLinhasInvalidas": 428839,
+				"totalGeralIdade": 20809,
+				"totalMeiaIdade": 5352,
+				"totalTerceiraIdade": 13304,
+				"rowCount": 14634
+			},
+			"DOMS2013": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1626,
+				"totalCirurgiaNao": 17720,
+				"totalCirurgiaIgnorada": 1494,
+				"totalCirurgiaVazia": 451232,
+				"totalLinhasInvalidas": 451232,
+				"totalGeralIdade": 20840,
+				"totalMeiaIdade": 5360,
+				"totalTerceiraIdade": 13323,
+				"rowCount": 14921
+			},
+			"DOMS2014": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1631,
+				"totalCirurgiaNao": 17835,
+				"totalCirurgiaIgnorada": 1506,
+				"totalCirurgiaVazia": 551719,
+				"totalLinhasInvalidas": 551719,
+				"totalGeralIdade": 20972,
+				"totalMeiaIdade": 5399,
+				"totalTerceiraIdade": 13392,
+				"rowCount": 15063
+			},
+			"DOMS2015": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1632,
+				"totalCirurgiaNao": 17841,
+				"totalCirurgiaIgnorada": 1507,
+				"totalCirurgiaVazia": 555547,
+				"totalLinhasInvalidas": 555547,
+				"totalGeralIdade": 20980,
+				"totalMeiaIdade": 5401,
+				"totalTerceiraIdade": 13397,
+				"rowCount": 15457
+			},
+			"DOMS2016": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17866,
+				"totalCirurgiaIgnorada": 1508,
+				"totalCirurgiaVazia": 582522,
+				"totalLinhasInvalidas": 582522,
+				"totalGeralIdade": 21008,
+				"totalMeiaIdade": 5414,
+				"totalTerceiraIdade": 13405,
+				"rowCount": 16749
+			},
+			"DOMS2017": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1633,
+				"totalCirurgiaNao": 17851,
+				"totalCirurgiaIgnorada": 1508,
+				"totalCirurgiaVazia": 566233,
+				"totalLinhasInvalidas": 566233,
+				"totalGeralIdade": 20992,
+				"totalMeiaIdade": 5408,
+				"totalTerceiraIdade": 13400,
+				"rowCount": 15954
+			},
+			"DOMS2018": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17866,
+				"totalCirurgiaIgnorada": 1508,
+				"totalCirurgiaVazia": 582523,
+				"totalLinhasInvalidas": 582523,
+				"totalGeralIdade": 21008,
+				"totalMeiaIdade": 5414,
+				"totalTerceiraIdade": 13405,
+				"rowCount": 16600
+			},
+			"DOMS2019": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17864,
+				"totalCirurgiaIgnorada": 1508,
+				"totalCirurgiaVazia": 579539,
+				"totalLinhasInvalidas": 579539,
+				"totalGeralIdade": 21006,
+				"totalMeiaIdade": 5413,
+				"totalTerceiraIdade": 13404,
+				"rowCount": 16815
+			},
+			"DOMS2020": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17915,
+				"totalCirurgiaIgnorada": 1519,
+				"totalCirurgiaVazia": 622442,
+				"totalLinhasInvalidas": 622442,
+				"totalGeralIdade": 21068,
+				"totalMeiaIdade": 5435,
+				"totalTerceiraIdade": 13438,
+				"rowCount": 19025
+			}
+		}
+	],
+	[
+		{
+			"DOMT2011": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17900,
+				"totalCirurgiaIgnorada": 1514,
+				"totalCirurgiaVazia": 614350,
+				"totalLinhasInvalidas": 614350,
+				"totalGeralIdade": 21048,
+				"totalMeiaIdade": 5430,
+				"totalTerceiraIdade": 13423,
+				"rowCount": 15239
+			},
+			"DOMT2012": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1631,
+				"totalCirurgiaNao": 17809,
+				"totalCirurgiaIgnorada": 1505,
+				"totalCirurgiaVazia": 528651,
+				"totalLinhasInvalidas": 528651,
+				"totalGeralIdade": 20945,
+				"totalMeiaIdade": 5394,
+				"totalTerceiraIdade": 13374,
+				"rowCount": 15901
+			},
+			"DOMT2013": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1631,
+				"totalCirurgiaNao": 17822,
+				"totalCirurgiaIgnorada": 1506,
+				"totalCirurgiaVazia": 534960,
+				"totalLinhasInvalidas": 534960,
+				"totalGeralIdade": 20959,
+				"totalMeiaIdade": 5395,
+				"totalTerceiraIdade": 13384,
+				"rowCount": 16137
+			},
+			"DOMT2014": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17925,
+				"totalCirurgiaIgnorada": 1519,
+				"totalCirurgiaVazia": 629150,
+				"totalLinhasInvalidas": 629150,
+				"totalGeralIdade": 21078,
+				"totalMeiaIdade": 5436,
+				"totalTerceiraIdade": 13446,
+				"rowCount": 16969
+			},
+			"DOMT2015": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17919,
+				"totalCirurgiaIgnorada": 1519,
+				"totalCirurgiaVazia": 625196,
+				"totalLinhasInvalidas": 625196,
+				"totalGeralIdade": 21072,
+				"totalMeiaIdade": 5435,
+				"totalTerceiraIdade": 13442,
+				"rowCount": 17095
+			},
+			"DOMT2016": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17926,
+				"totalCirurgiaIgnorada": 1521,
+				"totalCirurgiaVazia": 632377,
+				"totalLinhasInvalidas": 632377,
+				"totalGeralIdade": 21081,
+				"totalMeiaIdade": 5436,
+				"totalTerceiraIdade": 13448,
+				"rowCount": 17535
+			},
+			"DOMT2017": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1634,
+				"totalCirurgiaNao": 17929,
+				"totalCirurgiaIgnorada": 1521,
+				"totalCirurgiaVazia": 636717,
+				"totalLinhasInvalidas": 636717,
+				"totalGeralIdade": 21084,
+				"totalMeiaIdade": 5437,
+				"totalTerceiraIdade": 13450,
+				"rowCount": 17709
+			},
+			"DOMT2018": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1635,
+				"totalCirurgiaNao": 17934,
+				"totalCirurgiaIgnorada": 1521,
+				"totalCirurgiaVazia": 642706,
+				"totalLinhasInvalidas": 642706,
+				"totalGeralIdade": 21090,
+				"totalMeiaIdade": 5437,
+				"totalTerceiraIdade": 13455,
+				"rowCount": 18205
+			},
+			"DOMT2019": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1635,
+				"totalCirurgiaNao": 17932,
+				"totalCirurgiaIgnorada": 1521,
+				"totalCirurgiaVazia": 640705,
+				"totalLinhasInvalidas": 640705,
+				"totalGeralIdade": 21088,
+				"totalMeiaIdade": 5437,
+				"totalTerceiraIdade": 13453,
+				"rowCount": 18341
+			},
+			"DOMT2020": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1637,
+				"totalCirurgiaNao": 17992,
+				"totalCirurgiaIgnorada": 1526,
+				"totalCirurgiaVazia": 699742,
+				"totalLinhasInvalidas": 699742,
+				"totalGeralIdade": 21155,
+				"totalMeiaIdade": 5453,
+				"totalTerceiraIdade": 13495,
+				"rowCount": 23415
+			}
+		}
+	],
+	[
+		{
+			"DOGO2011": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1646,
+				"totalCirurgiaNao": 18101,
+				"totalCirurgiaIgnorada": 1552,
+				"totalCirurgiaVazia": 799052,
+				"totalLinhasInvalidas": 799052,
+				"totalGeralIdade": 21299,
+				"totalMeiaIdade": 5496,
+				"totalTerceiraIdade": 13582,
+				"rowCount": 34154
+			},
+			"DOGO2012": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1642,
+				"totalCirurgiaNao": 18037,
+				"totalCirurgiaIgnorada": 1538,
+				"totalCirurgiaVazia": 747454,
+				"totalLinhasInvalidas": 747454,
+				"totalGeralIdade": 21217,
+				"totalMeiaIdade": 5471,
+				"totalTerceiraIdade": 13532,
+				"rowCount": 36000
+			},
+			"DOGO2013": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1641,
+				"totalCirurgiaNao": 18019,
+				"totalCirurgiaIgnorada": 1533,
+				"totalCirurgiaVazia": 735628,
+				"totalLinhasInvalidas": 735628,
+				"totalGeralIdade": 21193,
+				"totalMeiaIdade": 5464,
+				"totalTerceiraIdade": 13520,
+				"rowCount": 36254
+			},
+			"DOGO2014": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1648,
+				"totalCirurgiaNao": 18110,
+				"totalCirurgiaIgnorada": 1554,
+				"totalCirurgiaVazia": 812901,
+				"totalLinhasInvalidas": 812901,
+				"totalGeralIdade": 21312,
+				"totalMeiaIdade": 5499,
+				"totalTerceiraIdade": 13592,
+				"rowCount": 37808
+			},
+			"DOGO2015": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1648,
+				"totalCirurgiaNao": 18110,
+				"totalCirurgiaIgnorada": 1555,
+				"totalCirurgiaVazia": 814696,
+				"totalLinhasInvalidas": 814696,
+				"totalGeralIdade": 21313,
+				"totalMeiaIdade": 5499,
+				"totalTerceiraIdade": 13593,
+				"rowCount": 38854
+			},
+			"DOGO2016": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1648,
+				"totalCirurgiaNao": 18110,
+				"totalCirurgiaIgnorada": 1554,
+				"totalCirurgiaVazia": 811555,
+				"totalLinhasInvalidas": 811555,
+				"totalGeralIdade": 21312,
+				"totalMeiaIdade": 5499,
+				"totalTerceiraIdade": 13592,
+				"rowCount": 38074
+			},
+			"DOGO2017": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1648,
+				"totalCirurgiaNao": 18110,
+				"totalCirurgiaIgnorada": 1555,
+				"totalCirurgiaVazia": 819905,
+				"totalLinhasInvalidas": 819905,
+				"totalGeralIdade": 21313,
+				"totalMeiaIdade": 5499,
+				"totalTerceiraIdade": 13593,
+				"rowCount": 39973
+			},
+			"DOGO2018": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1648,
+				"totalCirurgiaNao": 18110,
+				"totalCirurgiaIgnorada": 1555,
+				"totalCirurgiaVazia": 819018,
+				"totalLinhasInvalidas": 819018,
+				"totalGeralIdade": 21313,
+				"totalMeiaIdade": 5499,
+				"totalTerceiraIdade": 13593,
+				"rowCount": 39507
+			},
+			"DOGO2019": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1648,
+				"totalCirurgiaNao": 18110,
+				"totalCirurgiaIgnorada": 1555,
+				"totalCirurgiaVazia": 820974,
+				"totalLinhasInvalidas": 820974,
+				"totalGeralIdade": 21313,
+				"totalMeiaIdade": 5499,
+				"totalTerceiraIdade": 13593,
+				"rowCount": 41025
+			},
+			"DOGO2020": {
+				"totalDtIdadeVazia": 0,
+				"totalCirurgiaSim": 1648,
+				"totalCirurgiaNao": 18110,
+				"totalCirurgiaIgnorada": 1555,
+				"totalCirurgiaVazia": 828284,
+				"totalLinhasInvalidas": 828284,
+				"totalGeralIdade": 21313,
+				"totalMeiaIdade": 5499,
+				"totalTerceiraIdade": 13593,
+				"rowCount": 48210
+			}
+		}
+	]
+]
