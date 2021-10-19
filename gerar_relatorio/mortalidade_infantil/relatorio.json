@@ -1,398 +1,112 @@
 [
 	{
 		"DOINF20": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 31347
+			"totalCirurgiaSim": 2180,
+			"totalCirurgiaNao": 26481,
+			"totalCirurgiaIgnorada": 2691,
+			"totalCirurgiaVazia": 328822,
+			"totalLinhasInvalidas": 328822,
+			"rowCount": 31347
 		}
 	},
 	{
 		"DOINF12": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39123
+			"totalCirurgiaSim": 2226,
+			"totalCirurgiaNao": 26937,
+			"totalCirurgiaIgnorada": 2708,
+			"totalCirurgiaVazia": 330390,
+			"totalLinhasInvalidas": 330390,
+			"rowCount": 39123
 		}
 	},
 	{
 		"DOINF13": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38966
+			"totalCirurgiaSim": 2578,
+			"totalCirurgiaNao": 30182,
+			"totalCirurgiaIgnorada": 3075,
+			"totalCirurgiaVazia": 349873,
+			"totalLinhasInvalidas": 349873,
+			"rowCount": 38966
 		}
 	},
 	{
 		"DOINF10": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39870
+			"totalCirurgiaSim": 2656,
+			"totalCirurgiaNao": 30730,
+			"totalCirurgiaIgnorada": 3116,
+			"totalCirurgiaVazia": 356948,
+			"totalLinhasInvalidas": 356948,
+			"rowCount": 39870
 		}
 	},
 	{
 		"DOINF19": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35293
+			"totalCirurgiaSim": 2676,
+			"totalCirurgiaNao": 30966,
+			"totalCirurgiaIgnorada": 3122,
+			"totalCirurgiaVazia": 361461,
+			"totalLinhasInvalidas": 361461,
+			"rowCount": 35293
 		}
 	},
 	{
 		"DOINF16": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36350
+			"totalCirurgiaSim": 2678,
+			"totalCirurgiaNao": 31026,
+			"totalCirurgiaIgnorada": 3123,
+			"totalCirurgiaVazia": 365047,
+			"totalLinhasInvalidas": 365047,
+			"rowCount": 36350
 		}
 	},
 	{
 		"DOINF15": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 37501
+			"totalCirurgiaSim": 2684,
+			"totalCirurgiaNao": 31153,
+			"totalCirurgiaIgnorada": 3142,
+			"totalCirurgiaVazia": 367030,
+			"totalLinhasInvalidas": 367030,
+			"rowCount": 37501
 		}
 	},
 	{
 		"DOINF18": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35864
+			"totalCirurgiaSim": 2684,
+			"totalCirurgiaNao": 31153,
+			"totalCirurgiaIgnorada": 3142,
+			"totalCirurgiaVazia": 368100,
+			"totalLinhasInvalidas": 368100,
+			"rowCount": 35864
 		}
 	},
 	{
 		"DOINF17": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36223
+			"totalCirurgiaSim": 2684,
+			"totalCirurgiaNao": 31153,
+			"totalCirurgiaIgnorada": 3143,
+			"totalCirurgiaVazia": 368484,
+			"totalLinhasInvalidas": 368484,
+			"rowCount": 36223
 		}
 	},
 	{
 		"DOINF11": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39716
+			"totalCirurgiaSim": 2691,
+			"totalCirurgiaNao": 31201,
+			"totalCirurgiaIgnorada": 3144,
+			"totalCirurgiaVazia": 370162,
+			"totalLinhasInvalidas": 370162,
+			"rowCount": 39716
 		}
 	},
 	{
 		"DOINF14": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38432
-		}
-	},
-	{
-		"DOINF20": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 31347
-		}
-	},
-	{
-		"DOINF12": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39123
-		}
-	},
-	{
-		"DOINF13": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38966
-		}
-	},
-	{
-		"DOINF10": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39870
-		}
-	},
-	{
-		"DOINF19": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35293
-		}
-	},
-	{
-		"DOINF16": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36350
-		}
-	},
-	{
-		"DOINF15": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 37501
-		}
-	},
-	{
-		"DOINF18": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35864
-		}
-	},
-	{
-		"DOINF17": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36223
-		}
-	},
-	{
-		"DOINF11": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39716
-		}
-	},
-	{
-		"DOINF14": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38432
-		}
-	},
-	{
-		"DOINF20": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 31347
-		}
-	},
-	{
-		"DOINF12": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39123
-		}
-	},
-	{
-		"DOINF13": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38966
-		}
-	},
-	{
-		"DOINF10": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39870
-		}
-	},
-	{
-		"DOINF19": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35293
-		}
-	},
-	{
-		"DOINF16": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36350
-		}
-	},
-	{
-		"DOINF15": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 37501
-		}
-	},
-	{
-		"DOINF18": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35864
-		}
-	},
-	{
-		"DOINF17": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36223
-		}
-	},
-	{
-		"DOINF11": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39716
-		}
-	},
-	{
-		"DOINF14": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38432
-		}
-	},
-	{
-		"DOINF20": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 31347
-		}
-	},
-	{
-		"DOINF12": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39123
-		}
-	},
-	{
-		"DOINF13": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38966
-		}
-	},
-	{
-		"DOINF10": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39870
-		}
-	},
-	{
-		"DOINF19": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35293
-		}
-	},
-	{
-		"DOINF16": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36350
-		}
-	},
-	{
-		"DOINF15": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 37501
-		}
-	},
-	{
-		"DOINF17": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 36223
-		}
-	},
-	{
-		"DOINF18": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 35864
-		}
-	},
-	{
-		"DOINF11": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 39716
-		}
-	},
-	{
-		"DOINF14": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 38432
+			"totalCirurgiaSim": 2691,
+			"totalCirurgiaNao": 31202,
+			"totalCirurgiaIgnorada": 3145,
+			"totalCirurgiaVazia": 371647,
+			"totalLinhasInvalidas": 371647,
+			"rowCount": 38432
 		}
 	}
 ]
