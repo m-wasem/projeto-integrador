@@ -1,101 +1,134 @@
 [
 	{
 		"DOMAT12": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1583
+			"totalCirurgiaSim": 598,
+			"totalCirurgiaNao": 974,
+			"totalCirurgiaIgnorada": 84,
+			"totalCirurgiaVazia": 13606,
+			"totalLinhasInvalidas": 13606,
+			"totalMenorIdade": 139,
+			"totalIdade": 1656,
+			"rowCount": 1583
 		}
 	},
 	{
 		"DOMAT13": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1686
+			"totalCirurgiaSim": 634,
+			"totalCirurgiaNao": 1027,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 14139,
+			"totalLinhasInvalidas": 14139,
+			"totalMenorIdade": 146,
+			"totalIdade": 1750,
+			"rowCount": 1686
 		}
 	},
 	{
 		"DOMAT10": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1719
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1033,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 14695,
+			"totalLinhasInvalidas": 14695,
+			"totalMenorIdade": 146,
+			"totalIdade": 1760,
+			"rowCount": 1719
 		}
 	},
 	{
 		"DOMAT11": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1610
-		}
-	},
-	{
-		"DOMAT19": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1576
-		}
-	},
-	{
-		"DOMAT18": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1658
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1033,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 14707,
+			"totalLinhasInvalidas": 14707,
+			"totalMenorIdade": 146,
+			"totalIdade": 1760,
+			"rowCount": 1610
 		}
 	},
 	{
 		"DOMAT16": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1670
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1036,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 15994,
+			"totalLinhasInvalidas": 15994,
+			"totalMenorIdade": 146,
+			"totalIdade": 1763,
+			"rowCount": 1670
 		}
 	},
 	{
-		"DOMAT17": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1718
+		"DOMAT18": {
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1036,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 16189,
+			"totalLinhasInvalidas": 16189,
+			"totalMenorIdade": 146,
+			"totalIdade": 1763,
+			"rowCount": 1658
+		}
+	},
+	{
+		"DOMAT19": {
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1036,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 16193,
+			"totalLinhasInvalidas": 16193,
+			"totalMenorIdade": 146,
+			"totalIdade": 1763,
+			"rowCount": 1576
 		}
 	},
 	{
 		"DOMAT15": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1738
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1036,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 16403,
+			"totalLinhasInvalidas": 16403,
+			"totalMenorIdade": 146,
+			"totalIdade": 1763,
+			"rowCount": 1738
+		}
+	},
+	{
+		"DOMAT17": {
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1036,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 16471,
+			"totalLinhasInvalidas": 16471,
+			"totalMenorIdade": 146,
+			"totalIdade": 1763,
+			"rowCount": 1718
 		}
 	},
 	{
 		"DOMAT14": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1739
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1036,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 16730,
+			"totalLinhasInvalidas": 16730,
+			"totalMenorIdade": 146,
+			"totalIdade": 1763,
+			"rowCount": 1739
 		}
 	},
 	{
 		"DOMAT20": {
-			"totalCirurgiaSim": 0,
-			"totalCirurgiaNao": 0,
-			"totalCirurgiaIgnorada": 0,
-			"totalCirurgiaVazia": 0,
-			"totalLinhasInvalidas": 1851
+			"totalCirurgiaSim": 638,
+			"totalCirurgiaNao": 1036,
+			"totalCirurgiaIgnorada": 89,
+			"totalCirurgiaVazia": 16785,
+			"totalLinhasInvalidas": 16785,
+			"totalMenorIdade": 146,
+			"totalIdade": 1763,
+			"rowCount": 1851
 		}
 	}
 ]

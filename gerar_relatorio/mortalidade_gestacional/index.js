@@ -5,8 +5,8 @@ const {LocalStorage} = require("node-localstorage")
 const localStorage = new LocalStorage('./'); 
 
 
-let caminho_csv_analisar = 'C:\\Users\\Mikael\\Documents\\projeto-integrador\\data\\csv_analisar\\mortalidade_gestacional\\'
-let caminho_csv_relatorio = 'C:\\Users\\Mikael\\Documents\\projeto-integrador\\data\\csv_relatorio\\mortalidade_gestacional\\'
+let caminho_csv_analisar = 'E:\\Projetos\\projeto-integrador\\data\\csv_analisar\\mortalidade_gestacional\\'
+let caminho_csv_relatorio = 'E:\\Projetos\\projeto-integrador\\data\\csv_relatorio\\mortalidade_gestacional\\'
 
 
 let totalCirurgiaSim = 0;
@@ -14,29 +14,56 @@ let totalCirurgiaNao = 0;
 let totalCirurgiaIgnorada = 0;
 let totalCirurgiaVazia = 0;
 let totalLinhasInvalidas = 0;
-var csvFinal = [['CIRURGIA']];
+
+let totalMenorIdade = 0;
+let totalIdade = 0;
+
+
+var csvFinal = [['CIRURGIA', 'IDADE']];
 
 const csv_para_relatorio = [`DOMAT10`,`DOMAT11`, `DOMAT12`, `DOMAT13`, `DOMAT14`, `DOMAT15`, `DOMAT16`, `DOMAT17`, `DOMAT18`, `DOMAT19`, `DOMAT20`];
     
 csv_para_relatorio.forEach(nome_arquivo => {
     fs.createReadStream(path.resolve(`${caminho_csv_analisar}${nome_arquivo}.csv`))
     .pipe(csv.parse({ headers: true, ignoreEmpty: true  }))
-    .validate((data) => data.CIRURGIA !== '')
+    .validate((data) => data.CIRURGIA !== '' && data.IDADE !== '')
     .on('error', (error) => console.error(error))
     .on('data', (row) => {contabilizarCirurgias(row), prepararObjeto(row)})
     .on('data-invalid', (row) => contabilizarInvalidos(row))
     .on('end', (rowCount) => {
         salvarCSV(csvFinal, nome_arquivo, caminho_csv_relatorio)
-        salvarJSON(nome_arquivo, totalCirurgiaSim, totalCirurgiaNao, totalCirurgiaIgnorada, totalCirurgiaVazia, totalLinhasInvalidas, rowCount)
+        salvarJSON(
+            nome_arquivo, 
+            totalCirurgiaSim,
+            totalCirurgiaNao,
+            totalCirurgiaIgnorada,
+            totalCirurgiaVazia,
+            totalLinhasInvalidas,
+            totalMenorIdade,
+            totalIdade,
+            rowCount
+        )
     });
 });
 
+function formatIdade(idade) {
+    idade = idade.split('')
+    idade = `${idade[1]}${idade[2]}`
+
+    totalIdade++
+
+    if (idade < 18){
+        totalMenorIdade++
+    }
+
+    return idade
+}
+
 function prepararObjeto(obito) {
-    obito = [ obito.CIRURGIA]
+    obito = [obito.CIRURGIA, formatIdade(obito.IDADE)]
     csvFinal.push(obito)
     return obito
 }
-
 
 function contabilizarCirurgias(obito) {
     if (obito.CIRURGIA == 1) {
@@ -66,7 +93,17 @@ function salvarCSV(csvFinal, nome_arquivo, caminho_arquivo) {
     .on('finish', () => {console.log('Done writing.' + nome_arquivo)});
 }
 
-function salvarJSON(nome_arquivo, index, totalCirurgiaSim, totalCirurgiaNao, totalCirurgiaIgnorada, totalCirurgiaVazia,totalLinhasInvalidas, rowCount) {
+function salvarJSON(
+    nome_arquivo, 
+    totalCirurgiaSim,
+    totalCirurgiaNao,
+    totalCirurgiaIgnorada,
+    totalCirurgiaVazia,
+    totalLinhasInvalidas,
+    totalMenorIdade,
+    totalIdade,
+    rowCount
+    ) {
     var relatorio_final = JSON.parse(localStorage.getItem('relatorio.json'))
 
     relatorio_final.push({
@@ -76,14 +113,11 @@ function salvarJSON(nome_arquivo, index, totalCirurgiaSim, totalCirurgiaNao, tot
             totalCirurgiaIgnorada: totalCirurgiaIgnorada,
             totalCirurgiaVazia: totalCirurgiaVazia,
             totalLinhasInvalidas: totalLinhasInvalidas,
+            totalMenorIdade: totalMenorIdade,
+            totalIdade: totalIdade,
             rowCount: rowCount
         }
     })
 
     localStorage.setItem('relatorio.json', JSON.stringify(relatorio_final, null, '\t'))
-    
-    // if ((estado_atual + 1) != estados.length) {
-    //     estado_atual ++
-    //     gerar_relatorio()
-    // }
 }
